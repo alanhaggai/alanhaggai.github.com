@@ -42,13 +42,9 @@ body {
     border: 1px solid #000;
 }
 
-a {
-    color: #0854C7;
-}
+a { color: #0854C7; }
 
-a:hover {
-    text-decoration: none;
-}
+a:hover { text-decoration: none; }
 
 img {
     padding: 2px;
